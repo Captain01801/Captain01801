@@ -15,5 +15,3 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation.
 
 ---
 
-| 
-| ------------- | ------------- |
